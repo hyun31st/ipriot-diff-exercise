@@ -49,22 +49,22 @@ This is a repo to help you practice diffing!
 
 Fill in what each of the elements of the diff mean (if you are not sure just guess!):
 **①**:
-> Insert your explanation here
+> My guess is not sure... haha
 
 **②**:
-> Insert your answer here
+> Changed Question 2.
 
 **③**:
-> Insert your explanation here
+> Answer 3
 
 **④**:
-> Insert your answer here
+> Apple Banana
 
 **⑤**:
-> Insert your answer here
+> Git is so difficult
 
 **⑥**:
-> Insert your explanation here
+> I don't know....
 
 **⑦**:
 > Insert your answer here
